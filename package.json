@@ -1,0 +1,50 @@
+{
+  "name": "moesn",
+  "version": "1.0.2",
+  "description": "",
+  "main": "moesn.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://moesn@github.com/moesn/moesn.git"
+  },
+  "author": {
+    "name": "475484467@qq.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moesn/moesn/issues"
+  },
+  "homepage": "https://github.com/moesn/moesn#readme",
+  "_id": "moesn@1.0.0",
+  "_shasum": "7cc96a2991ebee92a3b6ee5aa80da65ec61c608d",
+  "_from": "moesn@latest",
+  "_npmVersion": "2.15.1",
+  "_nodeVersion": "4.4.3",
+  "_npmUser": {
+    "name": "moesn",
+    "email": "475484467@qq.com"
+  },
+  "dist": {
+    "shasum": "7cc96a2991ebee92a3b6ee5aa80da65ec61c608d",
+    "tarball": "https://registry.npmjs.org/moesn/-/moesn-1.0.0.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "moesn",
+      "email": "475484467@qq.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/moesn-1.0.0.tgz_1463738198917_0.2665082875173539"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/moesn/-/moesn-1.0.0.tgz",
+  "readme": "ERROR: No README data found!",
+  "devDependencies": {
+    "eslint-config-standard": "^5.3.1"
+  }
+}
