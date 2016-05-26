@@ -1,6 +1,6 @@
 {
   "name": "moesn",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "",
   "main": "moesn.js",
   "scripts": {
@@ -45,6 +45,8 @@
   "_resolved": "https://registry.npmjs.org/moesn/-/moesn-1.0.0.tgz",
   "readme": "ERROR: No README data found!",
   "devDependencies": {
-    "eslint-config-standard": "^5.3.1"
-  }
+    "eslint-config-standard": "latest",
+    "lodash": "latest"
+  },
+  "dependencies": {}
 }
