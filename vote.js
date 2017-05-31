@@ -1,6 +1,6 @@
 // Create by zhaohuaming.
-var interval = process.env.sudu ? process.env.sudu : 3;
-var counts = process.env.piao ? process.env.piao : 1000;
+var interval = process.env.sudu ? process.env.sudu : 1;
+var counts = process.env.piao ? process.env.piao : 1;
 
 var http = require('http');
 var querystring = require('querystring');

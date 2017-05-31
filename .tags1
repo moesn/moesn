@@ -1,0 +1,19 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+CHARS	/Users/moesn/AtomProjects/moesn/bim.vendor.js	/^var CHARS = '0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz'.split('');$/;"	variable	line:22
+uuid	/Users/moesn/AtomProjects/moesn/bim.vendor.js	/^Math.uuid = function (len, radix) {$/;"	function	line:23
+Math.uuid	/Users/moesn/AtomProjects/moesn/bim.vendor.js	/^var CHARS = '0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz'.split('');$/;"	function	line:22
+arrToTree	/Users/moesn/AtomProjects/moesn/bim.vendor.js	/^var arrToTree = function (array, idkey, pidkey, pid, parent, tree) {$/;"	function	line:48
+arrToTree	/Users/moesn/AtomProjects/moesn/bim.vendor.js	/^var arrToTree = function (array, idkey, pidkey, pid, parent, tree) {$/;"	function	line:48
+arrayToTree	/Users/moesn/AtomProjects/moesn/bim.vendor.js	/^Math.arrayToTree = function (array, idkey, pidkey, pids) {$/;"	function	line:72
+Math.arrayToTree	/Users/moesn/AtomProjects/moesn/bim.vendor.js	/^};$/;"	function	line:70
+encrypt	/Users/moesn/AtomProjects/moesn/bim.vendor.js	/^Math.encrypt = function (value) {$/;"	function	line:86
+Math.encrypt	/Users/moesn/AtomProjects/moesn/bim.vendor.js	/^};$/;"	function	line:84
+decrypt	/Users/moesn/AtomProjects/moesn/bim.vendor.js	/^Math.decrypt = function (value) {$/;"	function	line:91
+Math.decrypt	/Users/moesn/AtomProjects/moesn/bim.vendor.js	/^};$/;"	function	line:89
+params	/Users/moesn/AtomProjects/moesn/bim.vendor.js	/^window.location.params = function () {$/;"	function	line:96
+window.location.params	/Users/moesn/AtomProjects/moesn/bim.vendor.js	/^};$/;"	function	line:94
